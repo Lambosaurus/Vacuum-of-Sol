@@ -43,7 +43,7 @@ A research station was installed on Jupiters largest moon, Ganymede, as an inter
 
 ## 2198 - First interstellar colony
 
-A space station was placed in orbit around [Alpha Centauri](./glossary/local-systems.md#alpha-centauri)-C-2 as a commercial venture. This marked the first of many interstellar ventures.
+A space station was placed in orbit around [Alpha Centauri](./glossary/local-systems.md#alpha-centauri)-C-2 for mining of rare elements. This would be the first of many.
 
 ## 2210 - The Arlingham incident
 
@@ -51,7 +51,7 @@ The first instance of interstellar combat occurred when a Martian space freighte
 
 ## 2211 - The Epsilon Eridani massacre
 
-The first officially recognised 'space combat' occurred when three armed merchant ships from Earth were engaged by a stolen Mars Frigate. All parties were destroyed, and the event caused outrage within the Sol system.
+The first officially recognised 'space combat' occurred when three armed merchant ships from Earth were engaged by a stolen Martian Frigate in [Epsilon Eridani](./glossary/local-systems.md#epsilon-eridani). All parties were destroyed - the event causing outrage within the Sol system.
 
 ## 2216 - The Sol Union
 
@@ -61,15 +61,13 @@ The [Joint Sol Armada](./glossary/sol.md#sol-armada) was formed to enforce Sol l
 
 ## 2220 - Sol Lockdown
 
-The first occurrance of a human being formally passage entry to Sol occurred when an [Epsilon Eridani](./glossary/local-systems.md#epsilon-eridani) transport and her passengers were intercepted and rerouted on entry to Sol.
-
-The concepts of [sol citizenship](./glossary/sol.md#trade-permits) and [trade permits](./glossary/sol.md#trade-permits) were introduced as requirements to enter beyond the belt.
+The concepts of [sol citizenship](./glossary/sol.md#trade-permits) and [trade permits](./glossary/sol.md#trade-permits) were introduced as requirements to enter beyond the asteroid belt in Sol.
 
 ## 2237 - The Lalande massacre
 
-Three frigates from the Joint Sol Armbada entered the Lalande system to act as a security agree during a local negotiation. After the agreement broke down, they were ambushed by 14 retrofitted mining vessels.
+Three frigates from the Joint Sol Armbada entered the Lalande system to act as a security agree during a local negotiation. After the agreement broke down, they were ambushed by 14 modified mining vessels.
 
-All mining vessels were destroyed, along with the [Lalande B](./Glossary/local-systems.md#lalande-b) orbital carrying some 1350 souls. The Sol Armada suffered not a single crew casualty.
+All mining vessels were destroyed, along with the [Lalande B](./Glossary/local-systems.md#lalande-b) orbital, carrying some 1350 souls. The Sol Armada suffered zero casualties.
 
 ## 2275 - First alien life
 
