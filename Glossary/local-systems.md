@@ -50,3 +50,16 @@ Officially designated *Teegarden's star*
 *terrestrial planet*
 * [Blade grass sea](./alien-life.md#blade-grass-sea)
 * [Planetside](./colonies.md#planetside) farming colony
+
+# Kruger 60
+*binary star system*
+
+## Kurger 60 AB 1
+*tiny barren planet*
+* Borisov [Orbital](./colonies.md#orbital)
+
+# Proxima Centauri
+
+## Proxima Centauri C
+*tiny barren planet*
+* Debris of [Agrodome Orbital](./colonies.md#agrodome)

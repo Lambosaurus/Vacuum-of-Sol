@@ -10,7 +10,7 @@ This marks the start of humanities interstellar journey.
 
 Cooperation from multiple governments on earth resulted in the construction of Internation Space Station - a permenantly crewed space station in orbit around earth.
 
-## 2061 - Moon base established
+## 2061 - Tycho lunar colony
 
 Joint government and commercial interests began construction of Tycho lunar colony, located in the Tycho crater. This would become a staging point space vessel construction and asteroid mining.
 
@@ -73,6 +73,12 @@ All mining vessels were destroyed, along with the [Lalande B](./Glossary/local-s
 
 The first alien life was discovered on the surface of [Teegarden C](./Glossary/local-systems.md#teegarden-c), in the form of the [Teegarden leeches](./Glossary/alien-life.md#teegarden-leeches).
 
+## 2290 - Proxima Ameboplague
+
+An ameboid like organism infected and killed 1103 humans in the [Proxima Centauri C](./Glossary/local-systems.md#proxima-centauri-c) orbital agrodome.
+
+These organisms were confirmed to be of alien origin, but their source was never determined. After an investigation, a Sol vessel would destroy the site via nuclear torpedo.
+
 ## 2341 - Destruction of The Dame de Grace
 
 The SAS Dame-de-Grace of the Sol Armada, along with 712 souls, was destroyed by sabotage while docked at the [Lalande C](./glossary/local-systems.md#lalande-c) orbital station for repairs.
@@ -83,4 +89,4 @@ This is the first Sol Armada vessel destroyed proper in 100 years.
 
 Years of tensions between Sol and the local systems seem to have boiled to the surface.
 
-Citizens of the local systems await cautiously to see how Sol will repond.
+Citizens of the local systems await cautiously to see how the Sol Union will respond.
