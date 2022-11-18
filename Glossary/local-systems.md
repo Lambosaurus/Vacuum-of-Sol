@@ -4,6 +4,8 @@ This devices the systems easily reached by [shift drive](./shift-drive.md). This
 
 This is primarially a political definition, and is usually used refer to populated systems except [Sol](./sol.md).
 
+The local systems feature many [Colonies](./colonies.md).
+
 ![](../images/local-stars.png)
 
 
