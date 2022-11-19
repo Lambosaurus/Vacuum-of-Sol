@@ -81,7 +81,7 @@ These organisms were confirmed to be of alien origin, but their source was never
 
 ## 2341 - Destruction of The Dame de Grace
 
-The SAS Dame-de-Grace of the Sol Armada, along with 712 souls, was destroyed by sabotage while docked at the [Lalande C](./glossary/local-systems.md#lalande-c) orbital station for repairs.
+The culmination of several terrorist attempts in [Lalande](./Glossary/local-systems.md#lalande), The SAS Dame-de-Grace of the Sol Armada, along with 712 souls, was destroyed by sabotage while docked at the [Lalande C](./glossary/local-systems.md#lalande-c) orbital station.
 
 This is the first Sol Armada vessel destroyed proper in 100 years.
 

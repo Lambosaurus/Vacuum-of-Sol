@@ -26,11 +26,19 @@ Once assumed a right of all humanity, Citizenship in the [Sol union](#sol-union)
 
 Some claim that citizenship may also be granted for extreme loyalty or service.
 
+Most Sol citizens make their home on the enormous Earth or Martian cities - and enjoy luxuries and quality of life that [colonists](./colonies.md#life-on-a-colony) can only dream about. Sol citizens often view their jobs as a hobby rather than a requirement.
+
 # Trade permits
 
 Some reputable traders are granted trade permits to Sol. This enables them to fly cargoes to and from the inner planets, including Earth, Mars, and the Moon.
 
 Traders are viewed to a second-class citizen of sol.
+
+# Solari
+
+All trade is done in Solari - the standard sol currency. This has become the interstellar standard, as Sol guarantees the value of the Solari.
+
+For digital trades, the solari is metered out in millisolari, or 0.001 solari. The solari is also available in a hard currency in units of one or more solari.
 
 # Sol Armada
 

@@ -14,6 +14,4 @@ Spider bots come in a range of body sizes from 20cm to 3 meters in diameter.
 
 # Intellegence
 
-Most spider bots contain no [machine intellegence](./machine-intellegence.md), and are simply remotely controlled by a human or remote automation system.
-
-Some have been fitted with [class 1](./machine-intellegence.md#class-1) intellegence units for autonomous operations in difficult environment, or as a display of wealth.
+Spider bots are simply remotely controlled by a human or remote automation system.
