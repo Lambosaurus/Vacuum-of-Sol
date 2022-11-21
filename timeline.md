@@ -65,7 +65,7 @@ The concepts of [sol citizenship](./glossary/sol.md#trade-permits) and [trade pe
 
 ## 2237 - The Lalande massacre
 
-Three frigates from the Joint Sol Armbada entered the Lalande system to act as a security agree during a local negotiation. After the agreement broke down, they were ambushed by 14 modified mining vessels.
+Three frigates from the Joint Sol Armbada entered the Lalande system to act as a security guarantee during a local negotiation. After the agreement broke down, they were ambushed by 14 modified mining vessels.
 
 All mining vessels were destroyed, along with the [Lalande B](./Glossary/local-systems.md#lalande-b) orbital, carrying some 1350 souls. The Sol Armada suffered zero casualties.
 
