@@ -21,7 +21,7 @@ The local systems feature many [Colonies](./colonies.md).
 
 ## Epsilon Eridani B
 *Barren planet*
- * [Agrodome orbital](./colonies.md#agrodome)
+ * Greenbay [Agrodome orbital](./colonies.md#agrodome)
 
 
 # Lalande
@@ -65,3 +65,13 @@ Officially designated *Teegarden's star*
 ## Proxima Centauri C
 *tiny barren planet*
 * Debris of [Agrodome Orbital](./colonies.md#agrodome)
+
+
+# DEN 1048
+
+## DEN 1048 E
+*extremely large gas giant*
+* DEN 1048 E 3 - Barren moon
+  * [Planetside] open cast mine
+  * Eden [Orbital](./colonies.md#orbital)
+
