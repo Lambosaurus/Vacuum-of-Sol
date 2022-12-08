@@ -1,7 +1,7 @@
 # Costs
 Common item costs are listed below
 
-All items are brought and sold in [Solari](./sol.md#solari)
+All items are brought and sold in [Solari](./Glossary/sol.md#solari)
 
 
 | Item                 | Cost U |
