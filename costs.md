@@ -11,7 +11,7 @@ All items are brought and sold in [Solari](./Glossary/sol.md#solari)
 | Bandages             | 1      |
 | Battery              | 2      |
 | Medicines            | 10     |
-| Fuel rod             | 20     |
+| Fuel rod             | 30     |
 | Tools                | 5      |
 | Pistol               | 20     |
 | Rifle                | 30     |
